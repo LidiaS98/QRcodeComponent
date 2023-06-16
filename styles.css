@@ -1,0 +1,27 @@
+.box {
+  width: 20vw;
+  height: 55vh;
+  border-radius: 20px;
+  background-color: hsl(0, 0%, 100%);
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+img {
+  border-radius: 25px;
+  padding: 18px;
+  width: 300px;
+}
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+}
+
+.first {
+  color: hsl(218, 44%, 22%);
+  font-size: 30px;
+}
+.second {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+}
